@@ -1,0 +1,14 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+th{
+    background-color: aqua;
+}
+td:hover{
+    color: blue;
+}
+ani
